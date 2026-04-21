@@ -1,0 +1,19 @@
+Markdown
+PDF
+XML/JSON диаграммы
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
+.iml
+bin/
+obj/
+.suo
+.user
+.log
+tmp/
+temp/
+~$*.docx
+~$*.xlsx
+~$*.pptx
