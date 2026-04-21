@@ -23,7 +23,7 @@ obj/
 *.log
 tmp/
 temp/
-.tmp
+*.tmp
 
 # Временные копии Office документов:
 ~$*.docx
