@@ -1,19 +1,30 @@
-Markdown
-PDF
-XML/JSON диаграммы
+# Стек технологий: Markdown, PDF, XML/JSON диаграммы
+
+#Системные файлы ОС Windows:
 Thumbs.db
 desktop.ini
 $RECYCLE.BIN/
+
+# Файлы среды разработки (IDE):
+# VS Code:
 .vscode/
+
+# JetBrains (IntelliJ, PyCharm, WebStorm и др.):
 .idea/
-.iml
+*.iml
+
+# Visual Studio:
 bin/
 obj/
-.suo
-.user
-.log
+*.suo
+*.user
+
+# Временные файлы и логи:
+*.log
 tmp/
 temp/
+
+# Временные копии Office документов:
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
